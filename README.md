@@ -5,10 +5,14 @@
       <img src="./profilepicture.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/800x100/000000/FFFFFF?text=Cycus+Pectus" alt="Cycus Pectus" />
+      <h1>
+        <img src="https://via.placeholder.com/800x100/000000/FFFFFF?text=Cycus+Pectus" alt="Animated Name" />
+      </h1>
     </td>
   </tr>
 </table>
+
+
 
 
 ### Hi there 👋
