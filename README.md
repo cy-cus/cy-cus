@@ -90,8 +90,8 @@ I am passionate about staying ahead of the curve by embracing emerging technolog
 
 ## Cybersecurity
 
-- Mobile Application Testing ![Mobile Application Testing](https://img.shields.io/badge/Mobile_Application_Testing-FF9900?logo=android&logoColor=white&style=flat)
-- Web Application Testing ![Web Application Testing](https://img.shields.io/badge/Web_Application_Testing-4285F4?logo=chrome&logoColor=white&style=flat)
+- Mobile Application Hacking ![Mobile Application Testing](https://img.shields.io/badge/Mobile_Application_Testing-FF9900?logo=android&logoColor=white&style=flat)
+- Web Application Hacking ![Web Application Testing](https://img.shields.io/badge/Web_Application_Testing-4285F4?logo=chrome&logoColor=white&style=flat)
 - Network Penetration Testing ![Network Penetration Testing](https://img.shields.io/badge/Network_Penetration_Testing-FF0000?logo=kali-linux&logoColor=white&style=flat)
 
 
