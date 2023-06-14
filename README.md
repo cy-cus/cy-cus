@@ -31,29 +31,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Software Engineer with a proven 5-year track record in the industry. My expertise spans a wide range of technologies, including Python, Django, Flask, Docker, Kubernetes, Git, Bash, RESTful APIs, etc. With a deep understanding of Cybersecurity, I prioritize the protection of software and data.
+I'm a Software Engineer with a proven 5-year track record in the industry. My expertise spans a wide range of technologies, including Python, Golang, Django, Flask, Docker, Kubernetes, Git, Bash, RESTful APIs, etc. With a deep understanding of Cybersecurity, I prioritize the protection of software and data.
 
-I have showcased my proficiency in AWS and Google Cloud Platform, along with a strong command of DevOps practices, including Ansible, Jenkins, and Puppet. This allows me to create secure, scalable solutions that meet industry standards. Leveraging my skills in PostgreSQL and SQL databases, I have successfully tailored solutions to various sectors, including construction, finance, healthcare, and technology.
+I have showcased my proficiency in Azure, AWS and Google Cloud Platform, along with a strong command of DevOps practices, including Ansible, Jenkins, and Puppet. This allows me to create secure, scalable solutions that meet industry standards. Leveraging my skills in PostgreSQL and Mongodb, I have successfully tailored solutions to various sectors, including construction, finance, healthcare, and technology.
 
 I am passionate about staying ahead of the curve by embracing emerging technologies and delivering high-quality, industry-specific solutions.
 
 
 
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,flask,docker,kubernetes,nodejs,aws,gcp,git,postgres,linux,bash,powershell,ansible,puppet,jenkins" />
+    <img src="https://skillicons.dev/icons?i=py,django,flask,docker,kubernetes,nodejs,aws,gcp,git,postgres,linux,bash,powershell,ansible,puppet,jenkins,go,azure,mongodb" />
   </a>
 </p>
+
+
 
 
 ## Software Development
 
 - Python ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+- Golang ![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat)
 - Django ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
 - Flask ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
 - Git ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 - PostgreSQL ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+- MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 
 ## DevOps Engineering
@@ -74,6 +77,7 @@ I am passionate about staying ahead of the curve by embracing emerging technolog
 
 - AWS ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 - Google Cloud Platform ![Google Cloud ](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
+- Microsoft Azure ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat)
 
 ## Scripting & Automation
 
