@@ -97,15 +97,11 @@ I am passionate about staying ahead of the curve by embracing emerging technolog
 
 
 
-### My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=cy-cus&count_private=true&theme=radical&show_icons=true" />
-
-
 
 
 ### How to reach me
 
 
-You can reach me via email at pectuscycus@gmail.com. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cycus-pectus-) or [Twitter](https://twitter.com/_cytech). 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cycus-pectus-) or [Twitter](https://twitter.com/_cytech). 
 
 Looking forward to connecting with you!
