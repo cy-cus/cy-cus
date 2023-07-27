@@ -31,12 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Software Engineer with a proven 5-year track record in the industry. My expertise spans a wide range of technologies, including Python, Golang, Django, Flask, Docker, Kubernetes, Git, Bash, RESTful APIs, etc. With a deep understanding of Cybersecurity, I prioritize the protection of software and data.
-
-I have showcased my proficiency in Azure, AWS and Google Cloud Platform, along with a strong command of DevOps practices, including Ansible, Jenkins, and Puppet. This allows me to create secure, scalable solutions that meet industry standards. Leveraging my skills in PostgreSQL and Mongodb, I have successfully tailored solutions to various sectors, including construction, finance, healthcare, and technology.
-
-I am passionate about staying ahead of the curve by embracing emerging technologies and delivering high-quality, industry-specific solutions.
-
+Experienced software engineer with 5 years of professional experience. Expertise lies in backend development, cloud computing, data engineering, DevOps, full-stack development, and cybersecurity. Skilled in designing robust backend solutions, leveraging cloud technologies, and handling large datasets efficiently. Strong background in DevOps practices and implementing cybersecurity measures for secure software delivery. Versatile in full-stack development, delivering high-quality solutions across the software stack.
 
 
 <p align="center">
