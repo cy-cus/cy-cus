@@ -92,15 +92,6 @@ Experienced software engineer with 5 years of professional experience. Expertise
 - Web Application Hacking ![Web Application Testing](https://img.shields.io/badge/Web_Application_Testing-4285F4?logo=chrome&logoColor=white&style=flat)
 - Network Penetration Testing ![Network Penetration Testing](https://img.shields.io/badge/Network_Penetration_Testing-FF0000?logo=kali-linux&logoColor=white&style=flat)
 
-- ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
-
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername)
-
-## Languages Used
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
-
 
 
 
