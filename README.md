@@ -103,12 +103,12 @@ Senior Data & AI Engineer with **5+ years** of expertise building production-sca
 
 ![BugBounty](https://img.shields.io/badge/Bug_Bounty-Active_Hunter-FF0000?style=flat-square)
 ![Pentesting](https://img.shields.io/badge/Penetration_Testing-OWASP-000000?style=flat-square)
-![Security](https://img.shields.io/badge/Security_Tools-Go%20|%20Python-00ADD8?style=flat-square)
+![Security](https://img.shields.io/badge/Security_Tools-Python%20|%20Bash-00ADD8?style=flat-square)
 
 - **Platforms:** HackerOne, Bugcrowd (Active Bug Bounty Hunter)
 - **Testing:** Web Application, Mobile Application, Network Penetration Testing
 - **Methodology:** OWASP Top 10, Vulnerability Assessment, Ethical Hacking
-- **Tool Development:** Custom offensive security tools (Go, Python, Bash)
+- **Tool Development:** Custom offensive security tools (Python, Bash)
 - **Notable Findings:** Fortune 500 companies across telecom, academia, retail, fintech, and social platforms
 
 </details>
