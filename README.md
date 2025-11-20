@@ -35,7 +35,6 @@ Senior Data & AI Engineer with **5+ years** of expertise building production-sca
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python)
-![Go](https://img.shields.io/badge/Go-Backend-00ADD8?style=flat-square&logo=go)
 ![Django](https://img.shields.io/badge/Django-REST_APIs-092E20?style=flat-square&logo=django)
 ![Flask](https://img.shields.io/badge/Flask-Microservices-000000?style=flat-square&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Async_APIs-009688?style=flat-square&logo=fastapi)
