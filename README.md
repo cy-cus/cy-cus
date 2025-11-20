@@ -41,7 +41,7 @@ Senior Data & AI Engineer with **5+ years** of expertise building production-sca
 ![FastAPI](https://img.shields.io/badge/FastAPI-Async_APIs-009688?style=flat-square&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ORM%20|%20Tuning-336791?style=flat-square&logo=postgresql)
 
-- **Languages:** Python (Advanced), Go, TypeScript/Node.js, R, Bash, PowerShell
+- **Languages:** Python (Advanced), TypeScript/Node.js, R, Bash, PowerShell
 - **Backend Frameworks:** Django, FastAPI, Flask, Node.js (Express), gRPC services
 - **System Design:** RESTful & GraphQL APIs, microservices, event-driven architecture, caching strategies
 - **Databases:** PostgreSQL, MongoDB, MySQL, Redis, Oracle EBS (schema design, query optimization)
