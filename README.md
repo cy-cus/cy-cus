@@ -31,6 +31,25 @@ Senior Data & AI Engineer with **5+ years** of expertise building production-sca
 ## 🛠️ Technical Expertise
 
 <details open>
+<summary><b>💻 Backend & Software Engineering</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python)
+![Go](https://img.shields.io/badge/Go-Backend-00ADD8?style=flat-square&logo=go)
+![Django](https://img.shields.io/badge/Django-REST_APIs-092E20?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/Flask-Microservices-000000?style=flat-square&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-Async_APIs-009688?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ORM%20|%20Tuning-336791?style=flat-square&logo=postgresql)
+
+- **Languages:** Python (Advanced), Go, TypeScript/Node.js, R, Bash, PowerShell
+- **Backend Frameworks:** Django, FastAPI, Flask, Node.js (Express), gRPC services
+- **System Design:** RESTful & GraphQL APIs, microservices, event-driven architecture, caching strategies
+- **Databases:** PostgreSQL, MongoDB, MySQL, Redis, Oracle EBS (schema design, query optimization)
+- **Quality & Delivery:** Git, automated testing (Pytest, unit/integration), CI/CD, code reviews
+
+</details>
+
+<details open>
 <summary><b>🤖 AI & Machine Learning</b></summary>
 <br/>
 
@@ -80,25 +99,6 @@ Senior Data & AI Engineer with **5+ years** of expertise building production-sca
 </details>
 
 <details open>
-<summary><b>💻 Backend & Software Engineering</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python)
-![Go](https://img.shields.io/badge/Go-Backend-00ADD8?style=flat-square&logo=go)
-![Django](https://img.shields.io/badge/Django-REST_APIs-092E20?style=flat-square&logo=django)
-![Flask](https://img.shields.io/badge/Flask-Microservices-000000?style=flat-square&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-Async_APIs-009688?style=flat-square&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ORM%20|%20Tuning-336791?style=flat-square&logo=postgresql)
-
-- **Languages:** Python (Advanced), Go, TypeScript/Node.js, R, Bash, PowerShell
-- **Backend Frameworks:** Django, FastAPI, Flask, Node.js (Express), gRPC services
-- **System Design:** RESTful & GraphQL APIs, microservices, event-driven architecture, caching strategies
-- **Databases:** PostgreSQL, MongoDB, MySQL, Redis, Oracle EBS (schema design, query optimization)
-- **Quality & Delivery:** Git, automated testing (Pytest, unit/integration), CI/CD, code reviews
-
-</details>
-
-<details open>
 <summary><b>🔒 Cybersecurity & Penetration Testing</b></summary>
 <br/>
 
@@ -119,28 +119,19 @@ Senior Data & AI Engineer with **5+ years** of expertise building production-sca
 ## 🚀 Featured Impact Stories
 
 ### AI-Ready Cloud Foundation (Architecture Platform)
-- Migrated legacy architecture into **GCP-native data mesh** powering analytics for **100K+ design assets**
-- Shipped a **GPT-4 + RAG document intelligence stack** with **95% BoQ extraction accuracy** and **70% less manual entry**
-- Embedded **recommendation APIs** that boosted buyer engagement by **35%** and conversions by **22%**
+- Migrated legacy architecture into a **GCP-native data mesh** powering analytics for large architectural content libraries
+- Shipped a **GPT-4 + RAG document intelligence stack** achieving high BoQ extraction accuracy and drastically reducing manual entry
+- Embedded **recommendation APIs** that lifted buyer engagement and conversions through personalized suggestions
 
 ### Music Analytics Automation (Global Music Platform)
-- Built **Airflow + BigQuery pipelines** handling **10M+ streaming datapoints/day** for 5,000+ artists
+- Built **Airflow + BigQuery pipelines** handling high-volume streaming analytics for thousands of artists
 - Automated multi-platform ingestion (Spotify, Apple Music, Amazon) with secure headless auth workflows
-- Delivered **Flask/React analytics surfaces** backed by scalable Cloud Run deployments (**99.95% uptime**)
+- Delivered **Flask/React analytics surfaces** backed by scalable Cloud Run deployments with automated reliability guardrails
 
 ### Ticketing Intelligence Platform (Digital Marketplace)
 - Created **AI-assisted pricing engine** that optimizes thousands of ticket listings in real time
 - Hardened **PostgreSQL + AWS RDS** layer with query tuning for **20% faster insights**
 - Industrialized delivery with GitHub Actions, shrinking release cycles by **50%**
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cy-cus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cy-cus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</div>
 
 ---
 
