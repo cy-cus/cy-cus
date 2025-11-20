@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Senior Data & AI Engineer with **5+ years** of expertise building production-scale AI systems, cloud-native data platforms, and secure infrastructure. Proven track record of delivering measurable business impact through intelligent automation and data-driven solutions.
+Senior Data & AI Engineer and Backend Engineer with **5+ years** of expertise building production-scale systems, cloud-native data platforms, and secure APIs/services. Proven track record of delivering measurable business impact through intelligent automation and data-driven solutions.
 
 ### 🎯 Key Achievements
 
