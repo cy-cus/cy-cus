@@ -1,107 +1,186 @@
-<!-- Profile Picture and Banner -->
-<table>
-  <tr>
-    <td align="left">
-      <img src="./profilepicture.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
-    </td>
-    <td align="center">
-      <h1>
-        <img src="https://via.placeholder.com/800x100/000000/FFFFFF?text=Cycus+Pectus" alt="Animated Name" />
-      </h1>
-    </td>
-  </tr>
-</table>
-
-
-
-### Hi there 👋
-
-<!--
-**cy-cus/cy-cus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Experienced software engineer with 5 years of professional experience. Expertise lies in backend development, cloud computing, data engineering, DevOps, full-stack development, and cybersecurity. Skilled in designing robust backend solutions, leveraging cloud technologies, and handling large datasets efficiently. Strong background in DevOps practices and implementing cybersecurity measures for secure software delivery. Versatile in full-stack development, delivering high-quality solutions across the software stack.
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,flask,docker,kubernetes,nodejs,aws,gcp,git,postgres,linux,bash,powershell,ansible,puppet,jenkins,go,azure,mongodb" />
-  </a>
-</p>
-
-
-
-
-## Software Development
-
-- Python ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-- Golang ![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat)
-- Django ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
-- Flask ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
-- Git ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-- PostgreSQL ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-- MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-
-
-## DevOps Engineering
-
-- Docker ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+<div align="center">
+  <img src="./profile.jpg" alt="Cycus Pectus" width="220" style="border-radius: 18px; object-fit: cover; box-shadow: 0 12px 35px rgba(0,0,0,0.25); margin-bottom: 10px;" />
   
-- Kubernetes ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+  # Cycus Pectus
+  ### Senior Data & AI Engineer | Backend Engineer | Cloud Architect | Security Researcher
   
-- Bash ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cycus-pectus-)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/_cytech)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
   
-- Jenkins ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Senior Data & AI Engineer with **5+ years** of expertise building production-scale AI systems, cloud-native data platforms, and secure infrastructure. Proven track record of delivering measurable business impact through intelligent automation and data-driven solutions.
+
+### 🎯 Key Achievements
+
+- 🚀 **Architected ETL infrastructure** processing **10M+ records daily** using Apache Airflow & BigQuery
+- 🤖 **Developed LLM-powered systems** with GPT-4 & RAG achieving **95% accuracy** in document parsing
+- 📈 **Built ML recommendation engines** driving **35% engagement increase** and **22% conversion boost**
+- ☁️ **Led cloud migrations to GCP**, serving **100K+ users** with **99.95% uptime**
+- 🔒 **Active bug bounty hunter** delivering security findings for **Fortune 500 organizations**
+- ⚡ **Optimized databases** improving query performance by **20%** through advanced indexing strategies
+
+
+---
+
+## 🛠️ Technical Expertise
+
+<details open>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br/>
+
+![LLM](https://img.shields.io/badge/LLM_Integration-GPT--4%20|%20RAG-00A67E?style=flat-square)
+![ML](https://img.shields.io/badge/ML_Deployment-Production-FF6F00?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Document_Intelligence-4285F4?style=flat-square)
+![RecSys](https://img.shields.io/badge/Recommendation_Systems-Embeddings-E91E63?style=flat-square)
+![DataScience](https://img.shields.io/badge/Data_Science-Python%20|%20R-3776AB?style=flat-square)
+
+- **LLM Integration:** GPT-4 API, Prompt Engineering, RAG (Retrieval-Augmented Generation)
+- **ML Frameworks:** Scikit-learn, TensorFlow, Feature Engineering, Model Deployment
+- **ML Applications:** Recommendation Systems, Predictive Analytics, Anomaly Detection
+- **NLP:** Document Parsing, Text Classification, Named Entity Recognition
+
+</details>
+
+<details open>
+<summary><b>📊 Data Engineering & Analytics</b></summary>
+<br/>
+
+![Airflow](https://img.shields.io/badge/Apache_Airflow-ETL-017CEE?style=flat-square&logo=apache-airflow)
+![BigQuery](https://img.shields.io/badge/BigQuery-Data_Warehouse-4285F4?style=flat-square&logo=google-cloud)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-231F20?style=flat-square&logo=apache-kafka)
+![Spark](https://img.shields.io/badge/Spark-Processing-E25A1C?style=flat-square&logo=apache-spark)
+
+- **ETL Pipelines:** Apache Airflow, Data Validation, Quality Frameworks
+- **Data Warehousing:** BigQuery, Snowflake, Data Modeling
+- **Streaming:** Kafka, Real-time Processing, Event-Driven Architecture
+- **Analytics:** Statistical Analysis, Predictive Modeling, Business Intelligence
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<br/>
+
+![GCP](https://img.shields.io/badge/GCP-Advanced-4285F4?style=flat-square&logo=google-cloud)
+![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes)
+
+- **GCP:** BigQuery, Cloud Run, GCS, Compute Engine, IAM, Cloud Functions
+- **AWS:** EC2, S3, RDS, Lambda, CloudWatch
+- **Containers:** Docker, Kubernetes, Helm, Container Registries
+- **CI/CD:** GitHub Actions, Jenkins, Automated Deployment Pipelines
+
+</details>
+
+<details open>
+<summary><b>💻 Backend & Software Engineering</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python)
+![Go](https://img.shields.io/badge/Go-Backend-00ADD8?style=flat-square&logo=go)
+![Django](https://img.shields.io/badge/Django-REST_APIs-092E20?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/Flask-Microservices-000000?style=flat-square&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-Async_APIs-009688?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ORM%20|%20Tuning-336791?style=flat-square&logo=postgresql)
+
+- **Languages:** Python (Advanced), Go, TypeScript/Node.js, R, Bash, PowerShell
+- **Backend Frameworks:** Django, FastAPI, Flask, Node.js (Express), gRPC services
+- **System Design:** RESTful & GraphQL APIs, microservices, event-driven architecture, caching strategies
+- **Databases:** PostgreSQL, MongoDB, MySQL, Redis, Oracle EBS (schema design, query optimization)
+- **Quality & Delivery:** Git, automated testing (Pytest, unit/integration), CI/CD, code reviews
+
+</details>
+
+<details open>
+<summary><b>🔒 Cybersecurity & Penetration Testing</b></summary>
+<br/>
+
+![BugBounty](https://img.shields.io/badge/Bug_Bounty-Active_Hunter-FF0000?style=flat-square)
+![Pentesting](https://img.shields.io/badge/Penetration_Testing-OWASP-000000?style=flat-square)
+![Security](https://img.shields.io/badge/Security_Tools-Go%20|%20Python-00ADD8?style=flat-square)
+
+- **Platforms:** HackerOne, Bugcrowd (Active Bug Bounty Hunter)
+- **Testing:** Web Application, Mobile Application, Network Penetration Testing
+- **Methodology:** OWASP Top 10, Vulnerability Assessment, Ethical Hacking
+- **Tool Development:** Custom offensive security tools (Go, Python, Bash)
+- **Notable Findings:** Fortune 500 companies across telecom, academia, retail, fintech, and social platforms
+
+</details>
+
+---
+
+## 🚀 Featured Impact Stories
+
+### AI-Ready Cloud Foundation (Architecture Platform)
+- Migrated legacy architecture into **GCP-native data mesh** powering analytics for **100K+ design assets**
+- Shipped a **GPT-4 + RAG document intelligence stack** with **95% BoQ extraction accuracy** and **70% less manual entry**
+- Embedded **recommendation APIs** that boosted buyer engagement by **35%** and conversions by **22%**
+
+### Music Analytics Automation (Global Music Platform)
+- Built **Airflow + BigQuery pipelines** handling **10M+ streaming datapoints/day** for 5,000+ artists
+- Automated multi-platform ingestion (Spotify, Apple Music, Amazon) with secure headless auth workflows
+- Delivered **Flask/React analytics surfaces** backed by scalable Cloud Run deployments (**99.95% uptime**)
+
+### Ticketing Intelligence Platform (Digital Marketplace)
+- Created **AI-assisted pricing engine** that optimizes thousands of ticket listings in real time
+- Hardened **PostgreSQL + AWS RDS** layer with query tuning for **20% faster insights**
+- Industrialized delivery with GitHub Actions, shrinking release cycles by **50%**
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cy-cus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cy-cus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>
+
+---
+
+## 🔥 What I'm Currently Working On
+
+- 🤖 Building production AI platforms: **RAG systems**, **serverless inference pipelines**, and **real-time ML streaming** on GCP/Kafka
+- 🛡️ Using AI to harden security operations: intelligent red-team tooling, automated threat intel, and AI-driven vulnerability hunting
+- 🌐 Deep-diving into **Web3 security** — smart-contract auditing, wallet threat modeling, decentralized identity safeguards
+- 🔒 Continuing offensive security research and bug bounty programs to keep skills sharp and findings impactful
+
+
+
+
+
+
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing opportunities in **Data Engineering**, **AI/ML**, **Cloud Architecture**, and **Cybersecurity**.
+
+<div align="center">
   
-- Ansible ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cycus_Pectus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cycus-pectus-)
+[![Twitter](https://img.shields.io/badge/Twitter-@__cytech-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_cytech)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![HackerOne](https://img.shields.io/badge/HackerOne-Bug_Bounty-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/your-profile)
+
+</div>
+
+---
+
+<div align="center">
   
-- Puppet ![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?logo=puppet&logoColor=white&style=flat)
+### 💡 Open to opportunities in:
+**Senior Data Engineer** | **AI/ML Engineer** | **Cloud Architect** | **Security Engineer**
 
-## Cloud Computing
+*Building intelligent systems that scale and deliver measurable business impact*
 
-- AWS ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-- Google Cloud Platform ![Google Cloud ](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
-- Microsoft Azure ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=cy-cus&color=blueviolet&style=for-the-badge)
 
-## Scripting & Automation
-
-- PowerShell ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=flat)
-- Bash ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
-- Python ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-
-## Operating Systems
-
-- Linux ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
-- Windows ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat)
-- Unix ![Unix](https://img.shields.io/badge/Unix-000000?logo=unix&logoColor=white&style=flat)
-
-
-## Cybersecurity
-
-- Mobile Application Hacking ![Mobile Application Testing](https://img.shields.io/badge/Mobile_Application_Testing-FF9900?logo=android&logoColor=white&style=flat)
-- Web Application Hacking ![Web Application Testing](https://img.shields.io/badge/Web_Application_Testing-4285F4?logo=chrome&logoColor=white&style=flat)
-- Network Penetration Testing ![Network Penetration Testing](https://img.shields.io/badge/Network_Penetration_Testing-FF0000?logo=kali-linux&logoColor=white&style=flat)
-
-
-
-
-
-
-
-
-### How to reach me
-
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cycus-pectus-) or [Twitter](https://twitter.com/_cytech). 
-
-Looking forward to connecting with you!
+</div>
