@@ -18,12 +18,12 @@ Senior Data & AI Engineer with **5+ years** of expertise building production-sca
 
 ### 🎯 Key Achievements
 
-- 🚀 **Architected ETL infrastructure** processing **10M+ records daily** using Apache Airflow & BigQuery
-- 🤖 **Developed LLM-powered systems** with GPT-4 & RAG achieving **95% accuracy** in document parsing
-- 📈 **Built ML recommendation engines** driving **35% engagement increase** and **22% conversion boost**
-- ☁️ **Led cloud migrations to GCP**, serving **100K+ users** with **99.95% uptime**
+- 🚀 **Architected ETL infrastructure** with Apache Airflow & BigQuery to handle massive daily data workloads
+- 🤖 **Developed LLM-powered systems** with GPT-4 & RAG delivering high-accuracy document parsing and major manual effort reductions
+- 📈 **Built ML recommendation engines** that noticeably increased customer engagement and conversions
+- ☁️ **Led cloud migrations to GCP**, ensuring high availability and reliability for large user communities
 - 🔒 **Active bug bounty hunter** delivering security findings for **Fortune 500 organizations**
-- ⚡ **Optimized databases** improving query performance by **20%** through advanced indexing strategies
+- ⚡ **Optimized databases** with advanced indexing strategies to achieve significant query performance gains
 
 
 ---
@@ -129,8 +129,8 @@ Senior Data & AI Engineer with **5+ years** of expertise building production-sca
 
 ### Ticketing Intelligence Platform (Digital Marketplace)
 - Created **AI-assisted pricing engine** that optimizes thousands of ticket listings in real time
-- Hardened **PostgreSQL + AWS RDS** layer with query tuning for **20% faster insights**
-- Industrialized delivery with GitHub Actions, shrinking release cycles by **50%**
+- Hardened **PostgreSQL + AWS RDS** layer with targeted query tuning for faster insights
+- Industrialized delivery with GitHub Actions, dramatically shrinking release cycles
 
 ---
 
